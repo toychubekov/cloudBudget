@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ecadcc9-e17b-40af-ae68-ccd7c1a2e5ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yTdCU26Vei0yLZIE7CbXkkSIDM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Данные/Online_less/20_Proj/cloudBudget2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\cloudBudget\src\libs\carousel" />
+      <recent name="C:\Users\User\Desktop\cloudBudget\src\images\footer" />
+      <recent name="C:\Users\User\Desktop\cloudBudget\src\images\slider" />
+      <recent name="C:\Users\User\Desktop\cloudBudget\src\images\technology" />
+      <recent name="C:\Users\User\Desktop\cloudBudget\src\images\features" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\cloudBudget\src\libs\jquery" />
+      <recent name="C:\Users\User\Desktop\cloudBudget\src\libs\fancybox" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ecadcc9-e17b-40af-ae68-ccd7c1a2e5ef" name="Default Changelist" comment="" />
+      <created>1632279384673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632279384673</updated>
+      <workItem from="1632279385817" duration="2975000" />
+      <workItem from="1632305423848" duration="3000" />
+      <workItem from="1632449746060" duration="1532000" />
+      <workItem from="1632451361621" duration="2867000" />
+      <workItem from="1632456910226" duration="148000" />
+      <workItem from="1632709223259" duration="5197000" />
+      <workItem from="1632717083086" duration="8000" />
+      <workItem from="1632881862155" duration="2441000" />
+      <workItem from="1632885186911" duration="2292000" />
+      <workItem from="1632890491495" duration="62000" />
+      <workItem from="1633054756851" duration="5749000" />
+      <workItem from="1633063430625" duration="285000" />
+      <workItem from="1633313810772" duration="5591000" />
+      <workItem from="1633322450485" duration="3000" />
+      <workItem from="1633486831350" duration="5402000" />
+      <workItem from="1633495250417" duration="200000" />
+      <workItem from="1633659457273" duration="3621000" />
+      <workItem from="1633918765969" duration="5058000" />
+      <workItem from="1633947020544" duration="5000" />
+      <workItem from="1634091548213" duration="41000" />
+      <workItem from="1634092990354" duration="3909000" />
+      <workItem from="1634264047299" duration="5760000" />
+      <workItem from="1634272802458" duration="17000" />
+      <workItem from="1634523421953" duration="428000" />
+      <workItem from="1634534848140" duration="1566000" />
+      <workItem from="1634536930212" duration="7392000" />
+      <workItem from="1634749701696" duration="1180000" />
+      <workItem from="1634838417852" duration="1456000" />
+      <workItem from="1634840229617" duration="941000" />
+      <workItem from="1634878764964" duration="456000" />
+      <workItem from="1634879998945" duration="205000" />
+      <workItem from="1634880230896" duration="359000" />
+      <workItem from="1634880606896" duration="1277000" />
+      <workItem from="1634881907589" duration="175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="249" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1634535357767">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="517" y="249" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1634535357767" />
+    <state x="521" y="135" key="FileChooserDialogImpl" timestamp="1634535349409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1634095651999" />
+    <state x="521" y="135" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1634535349409" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1634535197768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1634535197768" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1634523645697">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1634523645697" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1634838569390">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1634838569390" />
+  </component>
+</project>
